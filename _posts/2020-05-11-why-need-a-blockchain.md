@@ -1,12 +1,12 @@
 ---
 title: Episode 1-Why need a blockchain
 author: Mohd Majid Akhtar
-date: 2020-05-11 14:41:00 +0530
+date: 2020-05-11 5:35:00 +0530
 categories: [Blogging, Blockchain]
 tags: [blockchain]
 ---
 
-This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
+This is my first post
 
 ## Titles
 
