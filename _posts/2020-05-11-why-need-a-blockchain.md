@@ -8,7 +8,7 @@ tags: [blockchain]
 
 ## Who are you on the internet?
 
-Just ask yourself, **who are you digitally?** I have been asking this question to myself lately and something haunts me. Who am I on the internet? Is it really me or the digital twin. Well the case seems to be simple as several studies suggest that we are only about 90% similar on the internet to what we actually are in real life. Considering both positive and negative aspect to around 10% variation which include hiding the flaws and increasing those attributes what we don't actually posses. So, the question comes back "what is our digital identity". 
+Just ask yourself, **who are you digitally?** I have been asking this question to myself lately and something haunts me. Who am I on the internet? Is it really me or the digital twin. Well the case seems to be simple as several studies suggest that we are only about 90% similar on the internet to what we actually are in real life. Considering both positive and negative aspect to around 10% variation which include hiding the flaws and increasing those attributes what we don't actually posses. So, the question comes back "what is our digital identity"? 
 
 ## Is it really something to worry about?
 
@@ -38,7 +38,7 @@ Well, one *zero effect positive* thing is that you can turn it off. Did you see 
 ***
 
 ## Conclusion
-I think I answered pretty much to why you need a blockchain. It's high time to have our privacy and control back to our hand. With **Blockchain** our Digital Identity (DID) will be secured and the control to it will only remain to us. We will share our data only with those whom we intend to. With decentralized networks, data will not stored at one (prime) location of big tech giants databases but instead placed in a distributed manner. This way we have more access control to our self sovereign identity. Organisations like IOTA (one of my favourite) have started working on DID's which will be stored on the *Tangle* and this alone will be sufficient to say who we are on the Internet. We need methods to stop companies from taking our data and mining there pockets. It's time we take our control back from them. 
+What we saw was from Facebook, and we also know that now Instagram and Whatsapp are under the umbrella of Facebook. Can you imagine how doomed we are. Who knows what going inside the functioning of whatsapp or insta. I think I answered pretty much to why you need a blockchain. It's high time to have our privacy and control back to our hand. With **Blockchain** our Digital Identity (DID) will be secured and the control to it will only remain to us. We will share our data only with those whom we intend to. With decentralized networks, data will not stored at one (prime) location of big tech giants databases but instead placed in a distributed manner. This way we have more access control to our self sovereign identity. Organisations like IOTA (one of my favourite) have started working on DID's which will be stored on the *Tangle* and this alone will be sufficient to say who we are on the Internet. We need methods to stop companies from taking our data and mining there pockets. It's time we take our control back from them. 
 
 ***
 Thank you for reading.
