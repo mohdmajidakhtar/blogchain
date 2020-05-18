@@ -147,4 +147,9 @@
   <!-- PWA -->
   <script src="{{ '/app.js' | relative_url }}" defer></script>
 
+
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include google-analytics.html %}
+	{% endif %}
+
 </head>
