@@ -49,7 +49,7 @@ baseurl: '/blogchain'
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Kolkata
 
-google_analytics: UA-166882118-1
+google_analytics: 
   # Fill with your Google Analytics ID
   id: 'UA-166882118-1'
   # The Google Analytics pageviews switch.
